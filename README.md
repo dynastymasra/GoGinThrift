@@ -3,7 +3,7 @@
 [![Go](https://img.shields.io/badge/Go-1.4-00E5E6.svg)](https://golang.org/)
 [![Gin](https://img.shields.io/badge/Framework-Gin-blue.svg)](https://github.com/gin-gonic/gin)
 [![Thrift](https://img.shields.io/badge/Apache%20Thrift-0.9.3-yellow.svg)](https://thrift.apache.org/)
-[![License](https://img.shields.io/badge/license-MIT-44897A.svg)](https://github.com/dynastymasra/GolangThrift/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-44897A.svg)](https://github.com/dynastymasra/GoGinThrift/blob/master/LICENSE)
 
 Golang (Go Programming Language) microservice with Apache Thrift and Gin Framework.
 
