@@ -1,0 +1,95 @@
+######
+# OS #
+######
+ls
+.directory
+.DS_Store
+*.*~
+*~
+
+##################
+# Eclipse Config #
+##################
+.metadata
+.settings
+
+###################
+# Intellij Config #
+###################
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea
+.idea/**/*
+out
+
+###########################
+# Project Intellij Config #
+###########################
+module_*.xml
+server.properties
+server.xml
+
+################
+# maven config #
+################
+target
+
+#################
+# gradle config #
+#################
+.gradle
+build
+
+###################
+# Netbeans config #
+###################
+lib
+nbactions.xml
+nb-configuration.xml
+catalog.xml
+
+####################
+# Compression file #
+####################
+*.zip
+*.rar
+
+###########
+# Android #
+###########
+bin
+assets
+classes
+build.xml
+ant.properties
+local.properties
+proguard-project.txt
+gen-external-apklibs
+*.apk
+
+#################
+# jasper config #
+#################
+*.jasper
+
+############
+# log file #
+############
+*.log
+
+##########
+# Golang #
+##########
+bin
+pkg
+github.com
+golang.org
+gopkg.in
+
+##########
+# thrift #
+##########
+gen-*
+git.apache.org
